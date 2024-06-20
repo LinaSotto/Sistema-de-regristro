@@ -4,3 +4,7 @@
 <h4 align= "center">
   🚧 En Construcción 🚧
 </h4>
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
