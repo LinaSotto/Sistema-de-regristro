@@ -1,9 +1,10 @@
-<h1> Sistema de registro</h1>
+<h1 align="center"> Sistema de registro</h1>
 
 - Estado del proyecto:
-<h4 align= "center">
+<h4>
   🚧 En Construcción 🚧
 </h4>
+
 
 Para ejecutar el sistema, debes poner:
 
